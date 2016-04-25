@@ -1,3 +1,11 @@
+PANASONI Microcontroller: MN103SFE4GXW
+Programmer: AF9723B/AF9845C
+Adaptor: TEF009-103SFA7K80
+Main + Data erea
+　Type code：2125C
+　Label display name：MN103SFE4G(M+D)
+
+
 Your AF9723B/AF9845C programmer should be prepared correctly. The programmer should be connected to the PC through serial cable.
 Then follow the following steps to transmit data file to the programmer.
 
